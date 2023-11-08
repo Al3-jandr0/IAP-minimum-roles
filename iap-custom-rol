@@ -1,0 +1,7 @@
+IAP minimum custom role permissions:
+
+compute.instances.list
+resourcemanager.projects.get
+
+User Role: IAP-secured Tunnel User
+
